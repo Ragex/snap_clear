@@ -1,2 +1,2 @@
-# snap_clear
-Shell scrip for clear list of snap images
+# snap_clear.sh
+Shell scrip for remove "disabled" snap images
